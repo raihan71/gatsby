@@ -12,7 +12,7 @@
     "cpx": "^1.5.0",
     "idb-keyval": "^3.1.0",
     "lodash": "^4.17.10",
-    "workbox-build": "^3.6.3"
+    "workbox-build": "^7.4.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
