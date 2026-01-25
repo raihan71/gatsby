@@ -34,7 +34,7 @@
     "gatsby-node-helpers": "^0.3.0",
     "gatsby-source-filesystem": "^2.0.20",
     "graphql-request": "^1.6.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "p-iteration": "^1.1.7",
     "prettyjson": "^1.2.1"
   },
